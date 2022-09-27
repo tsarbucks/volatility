@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/volatility/static/css/main.aeebb6b6.css",
+    "main.js": "/volatility/static/js/main.2bed8dd9.js",
+    "static/js/286.8e95d722.chunk.js": "/volatility/static/js/286.8e95d722.chunk.js",
+    "static/js/787.ef6b6c41.chunk.js": "/volatility/static/js/787.ef6b6c41.chunk.js",
+    "index.html": "/volatility/index.html",
+    "main.aeebb6b6.css.map": "/volatility/static/css/main.aeebb6b6.css.map",
+    "main.2bed8dd9.js.map": "/volatility/static/js/main.2bed8dd9.js.map",
+    "286.8e95d722.chunk.js.map": "/volatility/static/js/286.8e95d722.chunk.js.map",
+    "787.ef6b6c41.chunk.js.map": "/volatility/static/js/787.ef6b6c41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aeebb6b6.css",
+    "static/js/main.2bed8dd9.js"
+  ]
+}
